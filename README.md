@@ -1,2 +1,2 @@
 # Samantha Pictures
-https://github.com/wwwpak/Samantha/
+https://wwwpak.github.io/Samantha/
